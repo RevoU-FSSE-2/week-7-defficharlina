@@ -53,7 +53,7 @@ This project is about create interactive website app financial tracking to input
 
 6. Cloudflare
 
-   Create Niagahoster Account, please visit [Cloudflare](https://www.cloudflare.com/)
+   Create Cloudflare Account, please visit [Cloudflare](https://www.cloudflare.com/)
 
 7. Node.js
 
