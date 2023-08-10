@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-const myForm = document.getElementById("#myForm") as HTMLFormElement;
+const myForm = document.getElementById("myForm") as HTMLFormElement;
 myForm.addEventListener("submit", () => {
 
 
