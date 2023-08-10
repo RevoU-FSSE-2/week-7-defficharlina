@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Financial Tracker</title>
+  </head>
+  <body>
+    <h1>FINANCIAL TRACKER</h1>
+
+    <form id="myForm">
+        <label for="tipe">Tipe: </label>
+            <select id="tipe">
+                <option value="cash in">Cash in</option>
+                <option value="cash out">Cash out</option>
+            </select>
+    
+            <label for="nama">Nama:</label>
+            <input type="text" id="nama" required />
+
+            <label for="details">Details:</label>
+            <input type="text" id="details">
+
+            <label for="amount">Amount (Rp):</label>
+            <input type="number" id="amount">
+
+      <button type="submit" class="button">Add</button>
+    </form>
+
+    <div class="financial-info" id="financialInfo">
+    </div>
+    <script src="./script/app.js"></script>
+  </body>
+</html>
