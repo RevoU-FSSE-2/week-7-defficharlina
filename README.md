@@ -60,7 +60,7 @@ This project is about create interactive website app financial tracking to input
     Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.
 
 
-## 
+## Process
 1. Install Node.js at your laptop
 2. Setup project with Node.js ecosystem, create custom script for package.json
 
@@ -78,7 +78,8 @@ This project is about create interactive website app financial tracking to input
     <img src="images/install dan cek typescript.JPG" width="600">
   </p>
 
-4. 
+4. Connect app with HTML and DOM TypeScript to ceonnect fronted with backend service
+5. Website deployment with Netlify
 
 
 ## Deployment Process
