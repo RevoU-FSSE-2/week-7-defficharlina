@@ -78,8 +78,9 @@ This project is about create interactive website app financial tracking to input
     <img src="images/install dan cek typescript.JPG" width="600">
   </p>
 
-4. Connect app with HTML and DOM TypeScript to connect fronted with backend service
-5. Website deployment with Netlify
+4. Connect app with HTML and DOM TypeScript
+5. Use TypeScript code to connect frontend with backend service
+6. Website deployment with Netlify
 
 
 ## Deployment Process
